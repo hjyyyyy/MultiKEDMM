@@ -1,0 +1,48 @@
+1 wiki_full:
+
+2 shortTextCorpus:
+-GoogleNews
+--xxx_corpus.txt
+--xxx_corpusW.txt
+--xxx_vocab.txt
+--xxx_label.txt
+--word_wiki
+-Tweet
+-StackOverflow
+-snippet
+
+3 externalKnowledge:
+-PretrainedEntityEmbeddingOnWordNet
+-PretrainedWordVector
+-readme
+
+
+4 corpusKnowledgeEmbedding:
+-Vec
+--Word2Vec
+---xx_Word2Vec.txt
+-Glove2Vec
+---xx_Glove2Vec.txt
+--FastText2Vec
+---xxx_FastText2Vec.txt
+
+-WN2Embed
+--xxx_embedding.txt
+
+-MultiKE
+--MultiWord2Vec
+---xxx_r0.1MultiKE.txt
+--MultiGlove2Vec
+--MultiFastText2Vec
+
+
+-MultiKESim
+--SimWord2Vec
+---xxx_r0.1Sim.txt
+--SimGlove2Vec
+--SimFastText2Vec
+
+
+
+
+

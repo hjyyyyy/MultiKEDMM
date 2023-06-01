@@ -1,0 +1,14 @@
+StackOverflow
+Parameter:
+alpha	50\K
+beta	0.01
+thres	0.7
+weight	0.3
+filter	20
+----------Result-------------
+K	20
+PMI_T5	1.4728837771174355	0.0
+Accuracy	0.664229128580134	0.0
+K	40
+PMI_T5	1.5961246958997921	0.0
+Accuracy	0.7687385740402194	0.0
