@@ -1,5 +1,6 @@
 # MultiKEDMM
 MultiKEDMM is a topic model for short text leveraging multiple knowledge embeddings. 
+
 For more details, please refer to [this paper](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_44).
 
 If you use this package, please cite the paper:  
