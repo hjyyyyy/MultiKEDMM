@@ -48,12 +48,7 @@ Part 2 is to obtain the pdz, pzw, pd, and TopWords file for evaluating the perfo
 @inproceedings{DBLP:conf/iconip/HeCL22,  
   author       = {Jueying He and  
                   Jiayao Chen and  
-                  Mark Junjie Li},  
-  editor       = {Mohammad Tanveer and  
-                  Sonali Agarwal and  
-                  Seiichi Ozawa and  
-                  Asif Ekbal and  
-                  Adam Jatowt},  
+                  Mark Junjie Li},   
   title        = {Multi-knowledge Embeddings Enhanced Topic Modeling for Short Texts},  
   booktitle    = {Neural Information Processing - 29th International Conference, {ICONIP}  
                   2022, Virtual Event, November 22-26, 2022, Proceedings, Part {III}},  
