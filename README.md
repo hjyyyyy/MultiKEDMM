@@ -1,5 +1,5 @@
-# MultiKEDMM
-MultiKEDMM is a topic model for short text leveraging multiple knowledge embeddings.   
+# MultiKE-DMM
+MultiKE-DMM is a topic model for short text leveraging multiple knowledge embeddings.   
 For more details, please refer to [this paper](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_44).
 
 If you use this package, please cite the paper:  **Jueying He, Jiayao Chen, and Mark Junjie Li. Multi-knowledge Embeddings Enhanced Topic Modeling for Short Texts. Neural Information Processing: 29th International Conference, ICONIP 2022, Part III page 521–532.**
