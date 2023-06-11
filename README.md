@@ -44,3 +44,27 @@ Part 2 is to obtain the pdz, pzw, pd, and TopWords file for evaluating the perfo
 2.Get the evaluation of MultiKE-DMM in  _.../MultiKEDMM/result/result.txt_   
 
 
+## .bib Citation 
+@inproceedings{DBLP:conf/iconip/HeCL22,
+  author       = {Jueying He and
+                  Jiayao Chen and
+                  Mark Junjie Li},
+  editor       = {Mohammad Tanveer and
+                  Sonali Agarwal and
+                  Seiichi Ozawa and
+                  Asif Ekbal and
+                  Adam Jatowt},
+  title        = {Multi-knowledge Embeddings Enhanced Topic Modeling for Short Texts},
+  booktitle    = {Neural Information Processing - 29th International Conference, {ICONIP}
+                  2022, Virtual Event, November 22-26, 2022, Proceedings, Part {III}},
+  series       = {Lecture Notes in Computer Science},
+  volume       = {13625},
+  pages        = {521--532},
+  publisher    = {Springer},
+  year         = {2022},
+  url          = {https://doi.org/10.1007/978-3-031-30111-7\_44},
+  doi          = {10.1007/978-3-031-30111-7\_44},
+  timestamp    = {Thu, 20 Apr 2023 15:54:56 +0200},
+  biburl       = {https://dblp.org/rec/conf/iconip/HeCL22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
